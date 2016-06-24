@@ -1,0 +1,7 @@
+flask
+flask-sqlalchemy
+flask-login>=0.3.2
+mysql-connector-python-rf
+bcrypt
+oslo.config
+requests
